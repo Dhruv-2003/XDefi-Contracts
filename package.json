@@ -1,0 +1,25 @@
+{
+  "name": "xdefi-contracts",
+  "description": "DEFI Smart Contract library",
+  "version": "1.0.1",
+  "files": [
+    "**/*.sol"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/"
+  },
+  "keywords": [
+    "solidity",
+    "ethereum",
+    "smart",
+    "contracts",
+    "defi"
+  ],
+  "author": "Dhruv Agarwal <contact.dhruvagarwal@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OpenZeppelin/openzeppelin-contracts/issues"
+  },
+  "homepage": ""
+}
