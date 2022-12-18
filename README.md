@@ -1,4 +1,4 @@
-/// Collection of DEFI Contracts
+# Collection of DEFI Contracts
 
 ## 1. Core contracts
 
@@ -29,3 +29,7 @@
 -> _ETH Wrapper_ - ETH Wrapper token
 
 -> _Token_ - ERC20 token contract used for deploying all the tokens
+
+## 4. Extras
+
+-> Contracta Also includes all the interfaces , libraries used for the project

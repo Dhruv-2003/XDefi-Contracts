@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/Dhruv-2003/XDefi-Contracts/issues"
   },
-  "homepage": ""
+  "homepage": "",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.0"
+  }
 }
