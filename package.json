@@ -1,7 +1,7 @@
 {
   "name": "xdefi-contracts",
   "description": "DEFI Smart Contract library",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "files": [
     "**/*.sol"
   ],
