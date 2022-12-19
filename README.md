@@ -10,6 +10,8 @@
 
 -> _Lending Pool_ - Lending / Borrowing Pool for a token , manages both operations
 
+-> _Staking Pool_ - Staking Pool to stake tokens and earn rewards
+
 ## 2. Frontends ( Periphery ) Contracts
 
 -> _XSwap Router_ - Contract that interacts with Factory and Pair contracts for Swapping and quotes for Swapping
@@ -32,4 +34,8 @@
 
 ## 4. Extras
 
--> Contracta Also includes all the interfaces , libraries used for the project
+-> Contracts Also includes all the interfaces , libraries used for the project
+
+## NOTE : Swapping contracts are ready for Mainnet Deployement . The contracts are properly audited , gas optimized and quailty approved .
+
+## NOTE : LENDING and STAKING contracts Not fit for mainnet, No Audit has been done for these contracts. Issues maybe present.
